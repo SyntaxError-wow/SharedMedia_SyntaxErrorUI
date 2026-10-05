@@ -1,0 +1,10 @@
+## Interface: 11508, 11509, 16001, 20505, 20506, 30405, 38002, 40402, 50503, 50504, 120100, 120105, 120007
+## Version: 1.0.0
+## Title: |cFF8C1616SyntaxError UI|r SharedMedia
+## Notes: Custom media library created for |cFF8C1616SyntaxError UI|r for |cFFFFFF00EllesmereUI
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
+
+SharedMedia_SyntaxErrorUI.lua
